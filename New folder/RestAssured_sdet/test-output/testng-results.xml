@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4934" started-at="2021-10-30T13:14:02Z" finished-at="2021-10-30T13:14:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4934" started-at="2021-10-30T13:14:02Z" finished-at="2021-10-30T13:14:06Z">
+      <class name="RESTASSURED_CRUDOPERATION.CreateProject">
+        <test-method status="PASS" signature="createproject()[pri:0, instance:RESTASSURED_CRUDOPERATION.CreateProject@4b4523f8]" name="createproject" duration-ms="4884" started-at="2021-10-30T13:14:02Z" finished-at="2021-10-30T13:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createproject -->
+      </class> <!-- RESTASSURED_CRUDOPERATION.CreateProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
